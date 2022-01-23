@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking for a new online course to watch
 - 📫 How to reach me - find me on <a
-          href="https://https://www.linkedin.com/in/desislava-stoyanova-peeva-606326107/"
+          href="https://www.linkedin.com/in/desislava-stoyanova-peeva-606326107/"
           target="_blank"
           rel="noopener noreferrer"
           >LinkedIn
