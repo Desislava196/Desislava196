@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Desislava
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MySQL
 - 💞️ I’m looking for a new online course to watch
 - 📫 How to reach me - find me on <a
           href="https://www.linkedin.com/in/desislava-stoyanova-peeva-606326107/"
